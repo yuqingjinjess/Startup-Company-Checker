@@ -1,6 +1,5 @@
 # Startup-Company-Checker
 
-Product Overview
 Product Name: Startup Stability Checker 
 Target Audience: Job seekers and employees evaluating startup offers. 
 Core Value Proposition: Translate vague investor hype into concrete "Job Security" metrics using a 10-pillar analysis system. One-stop shop for learning about a new startup company
